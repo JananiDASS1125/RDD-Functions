@@ -7,7 +7,7 @@ This repository contains two Spark-based assessments done as part of learning **
 ## 📂 Contents
 1. **Assessment 1 - RDD Operations**
    - Load data into RDD  
-   - Find the season with the highest and lowest number of goals  
+   - Find the season with the highest and lowest number of goals 
    - Find the team with the highest average goals per season  
    - Calculate probabilities of Manchester United wins, losses, and draws  
 
