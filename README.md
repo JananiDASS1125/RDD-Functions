@@ -32,12 +32,3 @@ To run this project in **Google Colab**:
 
 3.Run the notebook cells step by step.
 
-Tools & Technologies
-Python 3
-Apache Spark (PySpark)
-Google Colab
-Kaggle Datasets
-
-Author
-Janani Dass
-3rd Year Engineering Student | Aspiring Full Stack Developer & Data Engineer
